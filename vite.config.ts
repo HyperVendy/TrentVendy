@@ -66,8 +66,8 @@ export default defineConfig({
       registerType: 'autoUpdate',
       includeAssets: ['favicon.svg', 'safari-pinned-tab.svg'],
       manifest: {
-        name: 'Vitesse',
-        short_name: 'Vitesse',
+        name: 'Trent Vendy',
+        short_name: 'Trent Vendy',
         theme_color: '#ffffff',
         icons: [
           {
