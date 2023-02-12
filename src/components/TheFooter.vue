@@ -4,7 +4,7 @@
       <div i-carbon-logo-linkedin />
     </a>
   </nav>
-  <a class="mx-2" rel="noreferrer" href="mailto://trent.l.vendy@gmail.com" target="_blank" title="trent.l.vendy@gmail.com">
-    Trent.L.Vendy@gmail.com
+  <a class="mx-2" rel="noreferrer" href="mailto://me@trentvendy.com" target="_blank" title="me@trentvendy.com">
+    me@trentvendy.com
   </a>
 </template>
