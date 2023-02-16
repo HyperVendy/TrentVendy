@@ -6,19 +6,20 @@
     <h1 mb-0>
       Trent Vendy
     </h1>
+    <h3>
+      Platform Engineer - Full Stack Developer - Mental Health Advocate
+    </h3>
   </div>
 
-  <div prose m-auto>
-    <p>Hey, I'm Trent Vendy, a Platform Engineer, Full Stack Developer, and Mental Health Advocate.</p>
+  <div prose m-auto p-2>
+    Hey, I'm Trent Vendy, a Platform Engineer, Full Stack Developer, and Mental Health Advocate.
   </div>
 
-  <div prose m-auto>
-    My professional life has taken me on some interesting and rewarding paths, each gave me something I could take away, starting in Service Desk Support where I learned I love the feeling of helping people, and working with them to solve a problem. I then landed in the corporate world, and quickly learned that I love working with new technology, and have a knack for picking things up fast. Then came KPMG, my first look into the consulting world and a truly big company, well, kind of. This is where I met a man who would completely redefine what work meant to me, and helped me find my direction, and what I was truly passionate about (and hey, he does coaching too, check out <a href="https://shariq.khwaja.au" target="_blank" rel="noopener">his site</a> if you're interested). This started my rabbit hole journey into the world of "The Cloud".
+  <div class="prose m-auto p-2">
+    I like building stuff, whether it's software like games, apps, or APIs; to physical things like computers, cat towers, 3D printed gadgets and gizmos, and most recently even my own outdoor decking!
+  </div>
 
-    <img src="/the-claw.jpg">
-
-    Since then I have been madly learning all the fun things that come along with the cloud, and while at KPMG became one of 10 people at the time within the organisation with the skills, knowledge, and ability to take something from an idea in my head, to a fully productionised, KPMG approved, highly secure and scalable application.
-
-    I am currently looking for the next opportunity, if you'd like to chat feel free to message me either on my email below, or LinkedIn.
+  <div class="prose m-auto p-2">
+    Something I like even more is people. I've recently discovered just how much I love helping, teaching, and trying to find ways to better myself and others. I love the challenge of figuring out how someone learns, and how I could pass on my knowledge in such a way that suits them.
   </div>
 </template>
