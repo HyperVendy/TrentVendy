@@ -7,7 +7,7 @@
       Trent Vendy
     </h1>
     <h3>
-      Full Stack Cloud Engineer
+      Principal Platform Engineer
     </h3>
     <h5>
       SaaS | FinTech | Front End | Back End | Infrastructure | CI/ CD
@@ -15,7 +15,7 @@
   </div>
 
   <div class="prose m-auto p-2">
-    Hey, I'm Trent Vendy, a Full Stack Cloud Engineer with a passion for teaching.
+    Hey, I'm Trent Vendy, a Principal Platform Engineer with a passion for people and tech
   </div>
 
   <div class="prose m-auto p-2">
@@ -24,11 +24,5 @@
 
   <div class="prose m-auto p-2">
     I've recently discovered just how much I love helping people, teaching and trying to find ways to better myself and others. I love the challenge of figuring out how someone learns, and how I could pass on my knowledge in such a way that suits them.
-  </div>
-
-  <div class="prose m-auto mb-8">
-    <h3>
-      I am currently looking for a new role, so if you're intereseted, please reach out via LinkedIn or email :D
-    </h3>
   </div>
 </template>

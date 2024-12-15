@@ -2,7 +2,7 @@
   "cSpell.words": ["Trent", "Vendy", "Vite", "vitest", "vueuse", "pinia", "demi", "antfu", "vitejs", "unplugin", "pnpm"],
   "prettier.enable": false,
   "editor.codeActionsOnSave": {
-    "source.fixAll.eslint": true
+    "source.fixAll.eslint": "explicit"
   },
   "files.associations": {
     "*.css": "postcss"
